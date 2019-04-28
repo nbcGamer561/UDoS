@@ -20,3 +20,9 @@ webBrowser1.Navigate("http://example.com/boot/scipt.py')
 Place In Your Booter Script
 ## License
 This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+### Won't Work? Here Is Why!
+* You Didn't Code It Correctly
+* You Don't Have A Server
+### Thank You!
+Thank You For Working With US!
+Reguards, nbcGamer561
